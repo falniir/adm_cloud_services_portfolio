@@ -7,7 +7,6 @@ mod tests;
 use rocket::form::Form;
 use rocket::fs::{relative, FileServer};
 use rocket::response::stream::{Event, EventStream};
-use rocket::serde::json::Json;
 use rocket::serde::{Deserialize, Serialize};
 use rocket::tokio::select;
 use rocket::tokio::sync::broadcast::{channel, error::RecvError, Sender};
