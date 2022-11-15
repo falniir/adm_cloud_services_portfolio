@@ -1,5 +1,5 @@
-# adm_cloud_services_portfolio
-Exam portfolio of Administraton and Cloud Services
+# IDATA2502 Administration of Cloud Services
+Exam portfolio: Administraton of Cloud Services
 
 ### How to run: 
 
